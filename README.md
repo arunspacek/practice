@@ -1,3 +1,3 @@
 # Practice
 
-This is just for practice.
+This is just for practice purposes.
